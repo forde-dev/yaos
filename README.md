@@ -3,6 +3,8 @@ Yet Another Operating System is a simple OS being built to help me learn how to 
 
 This project is still in progress, I have started working on adding the game Snake to the OS. I also plan to comment up some of the code before I forget whats happening :) 
 
+![20230428_23h03m00s_grim](https://user-images.githubusercontent.com/20425379/235268084-e3bc69ac-e4c7-4b89-a04b-5270623488f3.png)
+
 ## Resources
 
 The project is heavily based on these following resources
